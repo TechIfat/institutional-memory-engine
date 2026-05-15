@@ -1,0 +1,18 @@
+=== SHIFTAI BANK LTD: HISTORICAL DEAL MEMORY ===
+
+DEAL 901: APPROVED
+Amount: £10,000,000
+Sector: Commercial Real Estate (London)
+Minimum DSCR Required: 1.20x
+Covenants: Standard 15-day cure period applied.
+
+DEAL 902: REJECTED
+Amount: £20,000,000
+Sector: Retail
+Reason for Rejection: DSCR was 1.10x. Bank policy strictly mandates a minimum DSCR of 1.25x for all Retail sector loans to offset sector volatility. 
+
+DEAL 903: APPROVED
+Amount: £5,000,000
+Sector: Technology SaaS
+Minimum DSCR Required: 1.15x
+Covenants: Requires Senior Risk Officer sign-off due to tech sector exposure.

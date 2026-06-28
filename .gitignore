@@ -10,3 +10,7 @@ wheels/
 .venv
 .env.local
 .env 
+
+# Mac OS System Files (The Global Kill Switch)
+.DS_Store
+**/.DS_Store
